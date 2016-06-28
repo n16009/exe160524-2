@@ -1,0 +1,10 @@
+[    0.000000] Initializing cgroup subsys cpuset
+[    0.000000] Initializing cgroup subsys cpu
+[    0.000000] Initializing cgroup subsys cpuacct
+[    0.000000] Linux version 4.4.0-24-generic (buildd@lgw01-12) (gcc version 5.3.1 20160413 (Ubuntu 5.3.1-14ubuntu2.1) ) #43-Ubuntu SMP Wed Jun 8 19:27:37 UTC 2016 (Ubuntu 4.4.0-24.43-generic 4.4.10)
+[    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-4.4.0-24-generic.efi.signed root=UUID=ed7cb0f8-1ac6-4340-91e3-700f85c60c1f ro quiet splash vt.handoff=7
+[    0.000000] KERNEL supported cpus:
+[    0.000000]   Intel GenuineIntel
+[    0.000000]   AMD AuthenticAMD
+[    0.000000]   Centaur CentaurHauls
+[    0.000000] x86/fpu: Legacy x87 FPU detected.
